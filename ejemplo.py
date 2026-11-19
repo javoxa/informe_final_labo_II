@@ -1,3 +1,4 @@
+#primera edicion
 n = input("ingrese el numero de valores ")
 n = int(n)
 L = [] #definir lista vacia
